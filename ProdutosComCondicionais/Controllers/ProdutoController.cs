@@ -15,7 +15,7 @@ public class ProdutoController : Controller
 
         ViewBag.ProdutosValor = new List<double>
         {
-            "R$5","R$30","R$5 milhões","R$20","R$15"
+            5,30,5000000,20,15
         };
     
         return View();
