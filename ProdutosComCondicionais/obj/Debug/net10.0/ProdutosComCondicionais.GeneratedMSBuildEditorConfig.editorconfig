@@ -30,8 +30,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/Produtos-com-Condicionais/ProdutosComCondicionais/Views/Produtos/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHV0b3MvSW5kZXguY3NodG1s
+[/workspaces/Produtos-com-Condicionais/ProdutosComCondicionais/Views/Produto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHV0by9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/workspaces/Produtos-com-Condicionais/ProdutosComCondicionais/Views/Shared/Error.cshtml]

@@ -1,0 +1,28 @@
+@{
+    ViewData["Title"] = "Produtos";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div>
+   <ul>
+        @for (int i = 0; i < ViewBag.Produtos.Count; i++)
+        {
+            if (ViewBag.ProdutosValor[i] < 100)
+            {
+                <li style="color: green;">
+                    @ViewBag.Produtos[i] - R$ @ViewBag.ProdutosValor[i]
+                </li>
+            }
+            else
+            {
+                <li>
+                    @ViewBag.Produtos[i] - R$ @ViewBag.ProdutosValor[i]
+                </li>
+            }
+        }
+        <p>Total: @ViewBag.Produtos.Count Produtos</p>
+    </ul>
+</div>
