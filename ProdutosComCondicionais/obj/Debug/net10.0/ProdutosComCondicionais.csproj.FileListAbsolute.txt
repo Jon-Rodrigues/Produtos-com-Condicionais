@@ -1,0 +1,9 @@
+/workspaces/Produtos-com-Condicionais/ProdutosComCondicionais/obj/Debug/net10.0/rpswa.dswa.cache.json
+/workspaces/Produtos-com-Condicionais/ProdutosComCondicionais/obj/Debug/net10.0/ProdutosComCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Produtos-com-Condicionais/ProdutosComCondicionais/obj/Debug/net10.0/ProdutosComCondicionais.AssemblyInfoInputs.cache
+/workspaces/Produtos-com-Condicionais/ProdutosComCondicionais/obj/Debug/net10.0/ProdutosComCondicionais.AssemblyInfo.cs
+/workspaces/Produtos-com-Condicionais/ProdutosComCondicionais/obj/Debug/net10.0/ProdutosComCondicionais.csproj.CoreCompileInputs.cache
+/workspaces/Produtos-com-Condicionais/ProdutosComCondicionais/obj/Debug/net10.0/ProdutosComCondicionais.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/Produtos-com-Condicionais/ProdutosComCondicionais/obj/Debug/net10.0/ProdutosComCondicionais.RazorAssemblyInfo.cache
+/workspaces/Produtos-com-Condicionais/ProdutosComCondicionais/obj/Debug/net10.0/ProdutosComCondicionais.RazorAssemblyInfo.cs
+/workspaces/Produtos-com-Condicionais/ProdutosComCondicionais/obj/Debug/net10.0/ProdutosComCondicionais.sourcelink.json
