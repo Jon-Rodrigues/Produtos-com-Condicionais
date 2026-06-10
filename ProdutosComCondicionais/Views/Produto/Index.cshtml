@@ -3,23 +3,23 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Lojinha do Lex Luther</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Lojinha do Lex Luthor</h1>
+    <p>Superman ficou fraco, o Pinguim jogou criptonita. Lex Luthor e Coringa, roubou o laço da Mulher Maravilha</p>
 </div>
 <div>
    <ul>
         @for (int i = 0; i < ViewBag.Produtos.Count; i++)
         {
-            if (ViewBag.ProdutosValor[i] < 100)
+            if (ViewBag.Precos[i] < 100)
             {
                 <li style="color: green;">
-                    @ViewBag.Produtos[i] - R$ @ViewBag.ProdutosValor[i]
+                    @ViewBag.Produtos[i] - R$ @ViewBag.Precos[i]
                 </li>
             }
             else
             {
                 <li>
-                    @ViewBag.Produtos[i] - R$ @ViewBag.ProdutosValor[i]
+                    @ViewBag.Produtos[i] - R$ @ViewBag.Precos[i]
                 </li>
             }
         }
